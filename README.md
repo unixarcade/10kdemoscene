@@ -12,116 +12,221 @@
 ║                                                                      ║
 ║   ░▒▓████  1 0 , 0 0 0   E Y E S  ████▓▒░                          ║
 ║                                                                      ║
-║      A  3 2 K   I N T E R A C T I V E   F I L M   C A R T           ║
+║         P O L Y H O L O             ║
 ║                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  31,298 B  //  22 SCENES  //  06:16  //  20 KERNELS  //  0 ASSETS  ║
-║  LUMINOSITY / UNIXARCADE       v24 :: VIRTUAL CHIP       2026.07    ║
+║  27,665 B  //  22 SCENES  //  06:16  //  20 MODES  //  0 ASSETS    ║
+║  LUMINOSITY / UNIXARCADE       v42 :: LOCAL OPTIMUM       2026.07   ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-> **The film is smaller than one uncompressed frame. The world inside it is not.**
+> **The film became smaller. The machine inside it became larger.**
 
-**10,000 EYES** is a 31K real-time film made with **The AI Forge Mindware OS**—both by Luminosity. One HTML file holds the screenplay, camera, twenty visual languages, score, SFX, speech, captions, controls, adaptive renderer, and every electric sprite hiding in the dark.
+**10,000 EYES v42 — POLYHOLO OBJECT MESH** is a 27K real-time science-fiction film cartridge made by **Luminosity** with **The Forge AI OS**.
 
-No video, textures, samples, frameworks, or downloaded assets: the browser performs it live from one seed and **264 bytes of scene tape**.
+One HTML file contains the exact screenplay, twenty visual languages, procedural score, sound effects, speech, captions, controls, adaptive renderer, object database, routed virtual cores, event mesh, 16K procedural PROM, 2K working memory, and every electric sprite still blinking in the dark.
+
+There is no video file. No image file. No audio sample. No framework. No downloaded asset after load.
+
+The browser performs the film live from a **17-byte seed**, **264 bytes of scene tape**, compact laws, and a machine taught how to dream them forward through time.
 
 ## :: RELEASE.NFO ::
 
 ```text
- TITLE ...... 10,000 EYES v24 — VIRTUAL CHIP
+ TITLE ...... 10,000 EYES v42 — POLYHOLO OBJECT MESH
  CLASS ...... 32K interactive procedural film cartridge
- SIZE ....... 31,298 bytes / 30.56 KiB
- LIMIT ...... 32,768 bytes / 1,470 bytes free
+ SIZE ....... 27,665 bytes / 27.02 KiB
+ LIMIT ...... 32,768 bytes / 5,103 bytes free
  RUNTIME .... 376 seconds / 6:16
+ SCENES ..... 22 exact narrative scenes
+ MODES ...... 20 procedural visual languages
  MACHINE .... 16K procedural PROM + 2K working RAM
- TAPE ....... 22 scenes × 12 bytes
- CLOCKS ..... 12 / 18 / 24 Hz
+ TAPE ....... 22 scenes × 12 bytes / 264 bytes
+ DATABASE ... 22 prototype-routed scene objects
+ CORES ...... 3 cooperating virtual projection cores
+ BUS ........ event mesh / backpressure / routed signals
  DISPLAY .... 212×120 → 384×216 adaptive
  PALETTE .... black night / electric blue / rare warm signal
- BUILD/NET .. none / none after load
- SHA256 ..... 889792a1aa3b1b595e991eadfa5157ba5dff817e0146d9560a57ec3da8cde082
+ BUILD ...... none
+ NETWORK .... none after load
+ ASSETS ..... none
+ FILE SHA256  965d7dbe408434bdf0d80bc07d92799686be8da4130a0266af6f5433e42d897c
+ STORY SHA256 47f16843525c67b789175f74755714e63d57fbd20ade5dc0e6d15db821509512
 ```
+
+## :: THE LOCAL OPTIMUM ::
+
+```text
+ v40 RETINA RITUAL ........ 27,693 B
+ v42 POLYHOLO OBJECT MESH . 27,665 B
+ DIFFERENCE ............... −28 B
+```
+
+The film gained a prototype scene database, routed virtual cores, a compact event mesh, typed effect storage, caption caches, paused-state backpressure, holographic phase behavior, and a new live object-route display.
+
+It still became smaller.
+
+A **local optimum** does not mean no better version can ever exist. It means the obvious neighboring moves have been exhausted: cutting another byte currently costs more beauty, speed, sound, clarity, or reliability than it returns.
+
+This release is therefore sealed as a **golden master and reference specimen**. The next meaningful reduction will require a new theorem, a new codec, a new representation, or a new way of thinking about what the film actually is.
 
 ## :: INFORMATION DECOMPRESSION ::
 
 ```text
- 31,298 B ──▶ 22 TAPES + 20 KERNELS ──▶ BROWSER/CYBERDECK ──▶ 376 SEC
+ 27,665 B ──▶ OBJECT DB + TAPE + VIRTUAL CORES ──▶ BROWSER ──▶ 376 SEC
 
- ONE RAW FRAME ....... 331,776 B / 10.60 FILMS
- 128-KBIT AUDIO ...... 1.956 SEC
- STORED DENSITY ...... 83.24 B/S / 1,422.64 B/SCENE
+ ONE RAW FRAME ....... 331,776 B / 11.99 COMPLETE FILMS
+ 128-KBIT AUDIO ...... 1.729 SECONDS
+ STORED DENSITY ...... 73.58 B/S / 1,257.50 B/SCENE
  RAW 6:16 A/V ........ ~7.63 GB
- EXPANSION ........... ~243,762:1
+ EXPANSION ........... ~275,773:1
 ```
 
-Not media compression—**information decompression**. Store laws, seeds, rhythm, symbols, and intention; computation unfolds them into time. The browser is implicit ROM. The cartridge supplies the dream.
+This is not conventional media compression. It is **information decompression**.
 
-## :: VIRTUAL CHIP MAP ::
+The cartridge stores relationships instead of recordings: laws instead of frames, seeds instead of textures, synthesis instead of samples, scene objects instead of repeated instructions, and routes instead of duplicated control flow.
+
+The browser is implicit ROM. Time is the decompressor. The audience supplies the final consciousness.
+
+## :: POLYHOLO MACHINE MAP ::
 
 ```text
-        17-BYTE SEED                22×12-BYTE TAPE
-             │                            │
-             ▼                            ▼
-      ┌─────────────┐              ┌─────────────┐
-      │ 16K V-PROM  │─────────────▶│ CINEMA  VM  │
-      └─────────────┘              └──────┬──────┘
-                                         │
-                       ┌─────────────────┼─────────────────┐
-                       ▼                 ▼                 ▼
-                    CANVAS          WEB AUDIO           SPEECH
-                       └─────────────────┬─────────────────┘
-                                         ▼
-                                ░▒▓ 10,000 EYES ▓▒░
+                17-BYTE SEED
+                      │
+                      ▼
+              ┌──────────────┐
+              │ 16K V-PROM   │
+              │ + 2K WORKRAM │
+              └──────┬───────┘
+                     │
+       264-BYTE TAPE │     22 PROTOTYPE SCENE OBJECTS
+              ┌──────▼───────────────┐
+              │   POLYHOLO DATABASE  │
+              └──────┬───────────────┘
+                     │
+              ┌──────▼──────┐
+              │ META ROUTER │
+              └──────┬──────┘
+                     │
+        ┌────────────┼────────────┐
+        ▼            ▼            ▼
+   FIELD CORE    ACTOR CORE    SIGNAL CORE
+        └────────────┼────────────┘
+                     ▼
+              EVENT / MESSAGE MESH
+                     │
+        ┌────────────┼────────────┐
+        ▼            ▼            ▼
+     CANVAS       WEB AUDIO      SPEECH
+        └────────────┼────────────┘
+                     ▼
+          ░▒▓ 10,000 EYES ▓▒░
 ```
 
-The tape selects renderer, palette, motion, clock, camera, and narrative timing. Shared kernels supply the muscle; nibble-addressed behavior supplies new lives.
+This is not a monocore pretending to be a universe.
+
+The control plane is object-oriented and prototype-routed. The hot projection plane is typed, compact, branch-light, and specialized. The event mesh carries only the signals that need to move. Paused systems stop spending. Repeated language is cached. Effects reuse typed stores rather than manufacturing garbage for the collector.
+
+The result is not architecture for architecture’s sake. It is architecture that can be heard and felt: cleaner timing, denser sound, smoother projection, fewer transient allocations, and stronger behavior inside fewer bytes.
+
+## :: OPEN VISUAL PROM ::
 
 <details>
-<summary><strong>:: OPEN VISUAL PROM ::</strong></summary>
+<summary><strong>Twenty procedural visual languages</strong></summary>
 
-`RASTER` · `STAR-Z` · `SPRITE` · `VECTOR` · `PLASMA` · `TUNNEL` · `TILES` · `COPPER` · `ROTO` · `PART` · `EYE` · `SCOPE` · `MONO` · `FLWR` · `CELLS` · `GLYPH` · `METAB` · `FEEDB` · `INTER` · `HALO`
+`RASTER` · `STAR-Z` · `SPRITE` · `VECTOR` · `PLASMA` · `TUNNEL` · `TILES` · `COPPER` · `ROTO` · `PARTICLE` · `EYE` · `SCOPE` · `MONO` · `FLOWER` · `CELLS` · `GLYPH` · `METABALL` · `FEEDBACK` · `INTERFERENCE` · `HALO`
 
 </details>
 
-## :: SYSOP BULLETIN / HOW I MADE IT ::
+They are not stored scenes. They are compact behaviors capable of producing families of scenes. Palette, phase, motion, clock, camera, seed, intensity, and narrative state transform the same laws into different worlds.
 
-I made this through an alloy of machine collaboration and old human practices. **AI Forge / Forge AI OS** became an instrument rack—not a one-button movie generator. I tested, rejected, compressed, and directed what came through. **GPTeus Claudius** became a partner for questions, code dialogue, critique, and iteration.
+## :: THE SOUND MACHINE ::
 
-The source current remained **ideas, reading, memory, taste, stubbornness, and imagination**. Books taught me one symbol can contain a world; human judgment chose the images, words, silences, constraints, and final cut. **AI enlarged the workshop. The director remained human.**
+The soundtrack is generated at runtime. There are no samples hiding in the cartridge.
+
+Oscillators, noise, filters, envelopes, modulation, rhythm states, synthetic impacts, voices, spatial echoes, and scene signals cooperate as a tiny procedural instrument. The score is not pasted under the film; it is clocked by the same machine that moves the image and advances the story.
+
+That shared timing is one reason v42 feels unusually alive. Sound, captions, scene state, signal events, and projection are different surfaces of one runtime rather than separate media streams hoping to stay synchronized.
+
+## :: A THOUSAND IDEAS IN 27,665 BYTES ::
+
+A thousand ideas do not mean a thousand menu items.
+
+They are the small decisions hiding below the visible film: codecs, clocks, palettes, phase relationships, data layouts, render laws, synthesis tricks, event routes, cache decisions, memory boundaries, story encodings, virtual chips, proof checks, accessibility paths, adaptive-quality rules, and hundreds of rejected alternatives that did not earn their bytes.
+
+Some techniques descend from the demoscene, trackers, old consoles, BBS culture, emulators, signal processing, procedural art, database design, object systems, virtual machines, semiconductor thinking, crystallography, holography, compression, poetry, and cinema.
+
+Others emerged from forcing those disciplines to cooperate under one severe condition:
+
+> **The new mechanism must make the film smaller, faster, clearer, richer, or more alive—or it does not survive.**
+
+The originality is not one isolated trick. It is the synthesis: a film treated simultaneously as a database, instrument, virtual computer, executable poem, packet network, holographic field, and living cartridge.
 
 ## :: FORGE ROUTING ::
 
 ```text
- NIBBLE/BYTE ── packed scenes      MOVIE/ANIMATION ── camera/states
- PIXEL/PATTERN ─ LUT/dither/noise  TIME/MATH/PHYSICS ─ clocks/motion
- SOUND ───────── synth/swing       LOGIC/META/NET ─── kernels/proof
- CREATIVITY/AI ─ variants/selection/reflection
+ NIBBLE & BYTE .... PROM, tape, packed behavior, virtual hardware
+ META FORGE ....... route selection, orchestration, smallest true mechanism
+ NETWORK FORGE .... event mesh, signal routing, backpressure, silent idle paths
+ HOLOGRAPHIC CORE . reference fields, phase logic, interference, reconstruction
+ MOVIE FORGE ...... scene grammar, camera, cinematic state
+ ANIMATION FORGE .. motion laws, timing, adaptive projection
+ SOUND FORGE ...... synthesis, rhythm, modulation, scene-linked audio
+ TIME FORGE ....... clocks, cadence, duration, synchronization
+ MATH / PHYSICS ... fields, waves, orbits, transforms, procedural motion
+ PIXEL / PATTERN .. dither, texture law, palette, sprite and surface grammar
+ LOGIC / AGENT .... proof paths, state decisions, acceptance tests
+ MASTER FORGE ..... audit, preservation, selection, crown
 ```
 
-Only technology earning a real byte, speed, or cinematic gain survived. **Advanced means the smallest true mechanism.**
+**Forge AI OS** was used as an instrument rack and a language for thinking—not as a one-button movie generator.
+
+**GPTeus Claudius** served as collaborator, critic, code partner, compression adversary, and strange electric sprite. The human work remained direction, taste, memory, reading, imagination, rejection, persistence, and the final decision about what deserved to remain.
+
+AI enlarged the workshop. **The director remained human.**
+
+## :: LOSSLESS STORY LAW ::
+
+The story is not paraphrased, summarized, regenerated, or approximately restored.
+
+Its 22 scenes are preserved character-for-character against the v40 narrative baseline. Compression may change the vessel, but not the words inside it. Any story-packing technique must unpack exactly and pass the fingerprint before it is allowed into the release.
+
+```text
+ STORY SCENES .... 22 / 22
+ STORY MODE ...... exact / lossless
+ STORY SHA256 .... 47f16843525c67b789175f74755714e63d57fbd20ade5dc0e6d15db821509512
+ STATUS .......... unchanged
+```
 
 ## :: ENTER THE DOOR ::
 
 **[WATCH 10,000 EYES](https://unixarcade.github.io/10kdemoscene/)** → touch once → fullscreen → let the blue find you.
 
 ```text
- CENTER / SPACE .... pause       LEFT/RIGHT .... scene
- BOTTOM RAIL ....... seek        HOME/END ...... first/final
- H / M / T / F ..... HUD / mute / speech / fullscreen
+ CENTER / SPACE .... pause
+ LEFT / RIGHT ...... previous / next scene
+ BOTTOM RAIL ....... seek
+ HOME / END ......... first / final scene
+ H .................. HUD
+ M .................. mute
+ T .................. speech
+ F .................. fullscreen
 ```
 
-Captions, TTS, keyboard/pointer control, adaptive resolution, and reduced motion are built in.
+Captions, procedural speech, keyboard and pointer controls, adaptive resolution, reduced-motion awareness, pause backpressure, seeking, re-entry, and live performance telemetry are built into the cartridge.
 
 ## :: FINAL QA / RELEASE PROOF ::
 
 ```text
- DESKTOP .... 22/22 scenes
- MOBILE ..... 22/22 scenes
- ERRORS ..... 0
- PATHS ...... seek / pause / mute / speech / reduced motion / re-entry
- PIXEL PASS . 121 → 37 full-frame expansions / 69.4% fewer
- STATUS ..... TINY / STABLE / OPEN-EYED
+ STORY ........ 22/22 scenes / exact fingerprint
+ DESKTOP ...... full runtime path
+ MOBILE ....... adaptive projection path
+ ERRORS ....... 0 known release blockers
+ PATHS ........ seek / pause / mute / speech / reduced motion / re-entry
+ PACK ......... deflate-packed self-extracting single HTML
+ ASSETS ....... 0 external media assets
+ NETWORK ...... 0 requests after load
+ STATUS ....... TINY / STABLE / POLYCORE / OPEN-EYED
 ```
 
 ## :: CALL THESE BOARDS ::
@@ -145,11 +250,11 @@ Captions, TTS, keyboard/pointer control, adaptive resolution, and reduced motion
 
 ```ansi
 ╔══════════════════════════════════════════════════════════════════════╗
-║  GREETS: ANSI KIDS · BBS SYSOPS · PACKET PIRATES · SHAREWARE SAINTS ║
-║          READERS · DREAMERS · BUILDERS PAST AND FUTURE              ║
+║  GREETS: ANSI KIDS · BBS SYSOPS · DEMOSCENERS · PACKET PIRATES      ║
+║          SHAREWARE SAINTS · READERS · DREAMERS · BUILDERS           ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  SAUCE00  TITLE=10,000 EYES  AUTHOR=LUMINOSITY  GROUP=UNIXARCADE    ║
-║  FILE=HTML  CLASS=32K FILM CART  INK=BLACK/BLUE  HEART=2400 BAUD    ║
+║  FILE=HTML  CLASS=POLYHOLO FILM CART  INK=BLACK/BLUE  HEART=2400    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
